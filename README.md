@@ -10,3 +10,5 @@ It includes following modules:
 4. Initial sizing: finds out dimension of the aircraft component
 5. Drag : finds out total drag due to all the components
 6. Performance analysis: calculates performance to be compared against requirements
+
+This project is under development,so its not usable yet.
